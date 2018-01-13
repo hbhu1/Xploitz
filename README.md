@@ -11,6 +11,4 @@ The scripts found in this repository are __specifically intended for educational
 Please be mindful of others, and enjoy learning. :)
 
 ## Disclosure
-Unless otherwise noted, all vendors have been notified of the current vulnerability and authorized disclosure, or notified of a vulnerability in the past and were unresponsive. I believe it is the responsibility of vendors to respond to bug disclosures in a timely fashion, and inform those who disclosed it in a timely fashion. 
-
-My personal policy is: If a vendor was unresponsive to bug disclosures in the past, there is no assumption they will be responsive in the future. Therefore, the vendor will only be contacted 48 hours prior to the vulnerability being subject to disclosure unless there is a vendor policy specifically stating otherwise.
+Unless otherwise noted, all vendors have been notified of the current vulnerability and authorized disclosure, or notified of a vulnerability in the past and were unresponsive. I believe it is the responsibility of vendors to respond to bug disclosures in a timely fashion, and inform those who disclosed it in a timely fashion.
