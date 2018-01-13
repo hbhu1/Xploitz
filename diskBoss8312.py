@@ -8,7 +8,7 @@
 #   Software Link:      http://www.diskboss.com/setups/diskbossent_setup_v8.3.12.exe
 #   Version:            DiskBoss Enterprise v8.3.12 (32-bit)
 #   Tested on:          Windows 7 Enterprise SP1 (Build 7601)
-#   Usage:              Start nc listener on port 1337 and send exploit
+#   Usage:              Swap out shellcode. Start nc listener, and send exploit
 ######################################
 
 import socket, sys

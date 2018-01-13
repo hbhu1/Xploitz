@@ -8,7 +8,7 @@
 #   Software Link:      http://www.diskpulse.com/setups/diskpulseent_setup_v10.0.12.exe
 #   Version:            DiskPulse Enterprise v10.0.12 (32-bit)
 #   Tested on:          Windows 7 Enterprise SP1 (Build 7601)
-#   Usage:              Start nc listener on port 1337 and send exploit
+#   Usage:              Swap out shellcode. Start nc listener, and send exploit
 ######################################
 
 import socket, sys

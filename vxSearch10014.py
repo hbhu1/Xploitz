@@ -8,7 +8,7 @@
 #   Software Link:      http://www.vxsearch.com/setups/vxsearchent_setup_v10.0.14.exe
 #   Version:            VX Search Enterprise v10.0.14 (32-bit)
 #   Tested on:          Windows 7 Enterprise SP1 (Build 7601)
-#   Usage:              Start nc listener on port 1337 and send exploit
+#   Usage:              Swap out shellcode. Start nc listener, and send exploit
 ######################################
 
 import socket, sys

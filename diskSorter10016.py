@@ -8,7 +8,7 @@
 #   Software Link:      http://www.disksorter.com/setups/disksorterent_setup_v10.0.16.exe
 #   Version:            DiskSorter Enterprise v10.0.16 (32-bit)
 #   Tested on:          Windows 7 Enterprise SP1 (Build 7601)
-#   Usage:              Start nc listener on port 1337 and send exploit
+#   Usage:              Swap out shellcode. Start nc listener, and send exploit
 ######################################
 
 import socket, sys
